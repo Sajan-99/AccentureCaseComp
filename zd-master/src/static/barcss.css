@@ -1,0 +1,15 @@
+
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 500px;
+  right: 900px;
+  background: rgba(128,128,128,0.7);
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}

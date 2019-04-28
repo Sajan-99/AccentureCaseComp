@@ -1,0 +1,35 @@
+
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 700px;
+  right: 700px;
+  background: rgba(128,128,128,0.7);
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+/*#title {
+height: 10%;
+width: 50%;
+}
+
+#br {
+height: 50%;
+width: 50%;
+background-color: powderblue;
+}*/
+
+
+
+
+
+
+
+
